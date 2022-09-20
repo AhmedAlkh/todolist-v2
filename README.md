@@ -2,3 +2,4 @@
 
 This is v2 of the todolist app!
 This version implements the use of MongoDB.
+Deployed to Heroku.
